@@ -13,7 +13,7 @@ DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
 
 ## Resources
 
-* RDF Schema
+* [RDF Schema](http://usefulinc.com/ns/doap#)
 * License URIs
 * Examples
 * Mailing list and IRC
