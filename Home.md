@@ -8,7 +8,7 @@ DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
 
 ## DOAP overview
 
-* [Project goals]
+* [Project goals](https://github.com/edumbill/doap/wiki/Project-goals)
 * Project design
 
 ## Resources
