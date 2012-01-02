@@ -1,6 +1,6 @@
 # Description of a Project
 
-Welcome to the DOAP wiki. DOAP is a project to create an XML/RDF vocabulary to describe software projects, and in particular open source.
+Welcome to the DOAP wiki. DOAP is a project to create an XML/RDF vocabulary to describe software projects, and in particular open source projects.
 
 In addition to developing an RDF schema and examples, the DOAP project aims to provide tool support in all the popular programming languages.
 
