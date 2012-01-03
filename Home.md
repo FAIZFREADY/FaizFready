@@ -9,15 +9,13 @@ DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
 ## DOAP overview
 
 * [Project goals](https://github.com/edumbill/doap/wiki/Project-goals)
-* Project design
+* [Project design](https://github.com/edumbill/doap/wiki/Project-design)
 
 ## Resources
 
 * [RDF Schema](http://usefulinc.com/ns/doap#)
-* License URIs
 * Examples
 * [Mailing list and IRC](https://github.com/edumbill/doap/wiki/Mailing-list-and-IRC)
-* DOAP in the media
 * Source repository
 
 ## Software for creating and consuming DOAP
