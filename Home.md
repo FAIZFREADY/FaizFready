@@ -16,7 +16,7 @@ DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
 * [RDF Schema](http://usefulinc.com/ns/doap#)
 * License URIs
 * Examples
-* Mailing list and IRC
+* [Mailing list and IRC](https://github.com/edumbill/doap/wiki/Mailing-list-and-IRC)
 * DOAP in the media
 * Source repository
 
