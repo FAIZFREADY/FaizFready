@@ -20,7 +20,7 @@ DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
 
 ## Software for creating and consuming DOAP
 
-* [Generators](Generators)
+* [Generators](wiki/Generators)
 * Viewers
 * Web sites using DOAP
 * DOAP Aggregators
