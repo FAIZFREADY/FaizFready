@@ -25,3 +25,7 @@ DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
 * [Viewers](wiki/Viewers)
 * [Web sites using DOAP](wiki/Sites)
 * [DOAP Aggregators](wiki/Aggregators)
+* [watch spartacus vengeance episode 1 online](http://www.gspartacus-vengeancej.info/spartacus-vengeance-episode-1-fugitivus)
+* [watch spartacus vengeance online](http://www.gspartacus-vengeancej.info/)
+* [negativeangel](http://www.negativeangel.net/)
+* [play dress up games for girls](http://playdressupforgirlsonline.blogspot.com/)
