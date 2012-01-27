@@ -22,6 +22,8 @@ DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
 
 * [Validators](wiki/Validators)
 * [Generators](wiki/Generators)
+* [ jersey shore season 5](http://www.jerseyshoreonmegavideo.com/)
+* [ watch jersey shore season 5](http://www.jerseyshoreonmegavideo.com/)
 * [Viewers](wiki/Viewers)
 * [Web sites using DOAP](wiki/Sites)
 * [DOAP Aggregators](wiki/Aggregators)
