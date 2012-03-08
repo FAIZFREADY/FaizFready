@@ -17,6 +17,10 @@ DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
 * [Examples](https://github.com/edumbill/doap/tree/master/examples)
 * [Mailing list and IRC](https://github.com/edumbill/doap/wiki/Mailing-list-and-IRC)
 * [Source repository](https://github.com/edumbill/doap)
+* [[chat porno|http://www.gatitasconcam.com]]
+* [[sexo|http://www.sexogratis.org]]
+* [[culos|http://www.culosxl.com]]
+* [[xvideos|http://www.videosx.net]]
 
 ## Software for creating and consuming DOAP
 
