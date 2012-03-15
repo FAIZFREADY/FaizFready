@@ -2,7 +2,8 @@ DOAP is a project to create an XML/RDF vocabulary to describe open source and ot
 
 Initial goals include:
 
-* Internationalizable description of a software project and its associated resources, including participants and Web resources * Basic tools to enable the easy creation and consumption of such descriptions
+* Internationalizable description of a software project and its associated resources, including participants and Web resources
+* Basic tools to enable the easy creation and consumption of such descriptions
 * Interoperability with other popular Web metadata projects (RSS, FOAF, Dublin Core) 
 * The ability to extend the vocabulary for specialist purposes
 
