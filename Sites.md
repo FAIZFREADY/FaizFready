@@ -21,3 +21,5 @@ The GNOME project uses DOAP profiles for its projects to generate descriptions o
 [PEAR DOAP description for Auth_PrefManager2](http://pear.php.net/package/Auth_PrefManager2/doap)
 
 PEAR, the PHP Extension and Application Repository, has DOAP available for each package.
+
+[Asset Description Metadata Schema for Software](https://joinup.ec.europa.eu/asset/adms_foss/home) made by European Commission uses DOAP as part of the Schema
