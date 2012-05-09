@@ -22,4 +22,4 @@ The GNOME project uses DOAP profiles for its projects to generate descriptions o
 
 PEAR, the PHP Extension and Application Repository, has DOAP available for each package.
 
-[Asset Description Metadata Schema for Software](https://joinup.ec.europa.eu/asset/adms_foss/home) made by European Commission uses DOAP as part of the Schema
+[Asset Description Metadata Schema for Software](https://joinup.ec.europa.eu/asset/adms_foss/description) made by European Commission uses DOAP as part of the Schema
