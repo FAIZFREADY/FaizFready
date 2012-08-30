@@ -4,7 +4,7 @@ This page lists (in alphabetical order) some sites that are using DOAP to presen
 
 [projects.apache.org](http://projects.apache.org/)
 
-The Apache Software Foundation uses DOAP files to manage a registry of projects housed at the foundation.
+The Apache Software Foundation uses DOAP files to manage a registry of projects housed at the foundation (see http://projects.apache.org/docs/index.html which provides a pointer to the list of DOAP files).
 
 [Python Package Index](http://pypi.python.org/)
 
