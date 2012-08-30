@@ -25,3 +25,7 @@ PEAR, the PHP Extension and Application Repository, has DOAP available for each 
 [Asset Description Metadata Schema for Software](https://joinup.ec.europa.eu/asset/adms_foss/description) made by European Commission uses DOAP as part of the Schema
 
 The Debian Package Tracking System uses ADMS.SW (hence DOAP) to provide RDF exports (see http://www-public.it-sudparis.eu/~berger_o/weblog/2012/08/29/debian-package-tracking-system-now-produces-rdf-description-of-source-packages/)
+
+[CPAN DOAP description for RDF::Trine](http://ontologi.es/cpan-data/dist/RDF-Trine/project)
+
+DOAP data is provided for each package in CPAN, the Comprehensive Perl Archive Network - See http://ontologi.es/cpan-data/
