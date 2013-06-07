@@ -25,3 +25,6 @@ DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
 * [Viewers](wiki/Viewers)
 * [Web sites using DOAP](wiki/Sites)
 * [DOAP Aggregators](wiki/Aggregators)
+
+## Articles about DOAP
+* [Project Catalogues and Project Descriptors using DOAP](http://www.oss-watch.ac.uk/resources/doap) resource article on OSS Watch
