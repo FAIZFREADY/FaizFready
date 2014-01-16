@@ -10,8 +10,9 @@
   "name": "doap:name",
   "description": "doap:description",
   "author": "doap:maintainter",
-  "license" "doap:license", // can we map values to https://spdx.org/licenses/ ?
+  "license": "doap:license", // can we map values to https://spdx.org/licenses/ ?
   ...
-  }
+  },
+  "homepage": {"@id": "doap:homepage", "@type": "@id"}
 }
 ```
