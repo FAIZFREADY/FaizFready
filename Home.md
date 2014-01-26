@@ -17,6 +17,7 @@ DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
 * [Examples](https://github.com/edumbill/doap/tree/master/examples)
 * [Mailing list and IRC](https://github.com/edumbill/doap/wiki/Mailing-list-and-IRC)
 * [Source repository](https://github.com/edumbill/doap)
+* [W3C Semantic Web DOAP BulletinBoard](http://www.w3.org/wiki/SemanticWebDOAPBulletinBoard)
 
 ## Software for creating and consuming DOAP
 
