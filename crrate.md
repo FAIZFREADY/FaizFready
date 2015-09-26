@@ -1,1 +1,0 @@
-[Write](https://github.com/edumbill/doap/wiki/_new)
