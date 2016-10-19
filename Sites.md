@@ -8,7 +8,7 @@ The links below should be directly to the location of the RDF files, so that too
 
 
 **OpenLink Data Spaces** - Platform for generating Semantic Web Presence from Wikis, Blogs, RSS/Atom Feeds, Photo Albums, Shared Bookmarks, Discussion Forums, WebDAV resources etc..
-**OpenLink Virtuoso** - Hybrid Data Manager for SQL, XML, and RDF that includes SPARQL [contact support](http://www.fixithere.net/sky-contact-number/).
+**OpenLink Virtuoso** - Hybrid Data Manager for SQL, XML, and RDF that includes SPARQL [contact support](https://github.com/ellegonzalez/DVLA/wiki/Vehicle-Registration-&-SORN-DVLA-FAQ's).
 
 
     Scutterplan: RDF list of DOAP files, scraped from the FOAF wik
