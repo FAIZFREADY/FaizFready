@@ -4,19 +4,19 @@ Welcome to the DOAP wiki. DOAP is a project to create an XML/RDF vocabulary to d
 
 In addition to developing an RDF schema and examples, the DOAP project aims to provide tool support in all the popular programming languages.
 
-DOAP's creator and maintainer is [Edd Dumbill](http://eddology.com/).
+DOAP's creator and maintainer is [Edd Wilder-James](http://ewj.me/).
 
 ## DOAP overview
 
-* [Project goals](https://github.com/edumbill/doap/wiki/Project-goals)
-* [Project design](https://github.com/edumbill/doap/wiki/Project-design)
+* [Project goals](https://github.com/ewilderj/doap/wiki/Project-goals)
+* [Project design](https://github.com/ewilderj/doap/wiki/Project-design)
 
 ## Resources
 
 * [RDF Schema](http://usefulinc.com/ns/doap#)
-* [Examples](https://github.com/edumbill/doap/tree/master/examples)
-* [Mailing list and IRC](https://github.com/edumbill/doap/wiki/Mailing-list-and-IRC)
-* [Source repository](https://github.com/edumbill/doap)
+* [Examples](https://github.com/ewilderj/doap/tree/master/examples)
+* [Mailing list and IRC](https://github.com/ewilderj/doap/wiki/Mailing-list-and-IRC)
+* [Source repository](https://github.com/ewilderj/doap)
 * [W3C Semantic Web DOAP BulletinBoard](http://www.w3.org/wiki/SemanticWebDOAPBulletinBoard)
 
 ## Software for creating and consuming DOAP
