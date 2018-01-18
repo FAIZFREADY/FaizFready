@@ -4,11 +4,11 @@ The links below should be directly to the location of the RDF files, so that too
 
 ### Semantic Web Applications and demonstrators with DOAP files
 
-**DOAP database :**
+**DOAP database:**
 
 
 **OpenLink Data Spaces** - Platform for generating Semantic Web Presence from Wikis, Blogs, RSS/Atom Feeds, Photo Albums, Shared Bookmarks, Discussion Forums, WebDAV resources etc..
-**OpenLink Virtuoso** - Hybrid Data Manager for SQL, XML, and RDF that includes SPARQL http://driverwhiz.com/device-drivers
+**OpenLink Virtuoso** - Hybrid Data Manager for SQL, XML, and RDF that includes SPARQL 
 
 
     Scutterplan: RDF list of DOAP files, scraped from the FOAF wik
@@ -17,5 +17,6 @@ The links below should be directly to the location of the RDF files, so that too
     DaPynci - A python webgallery that uses RDF
     BlogEd: A Simple Blog Editor that uses the Sesame RDF database
     Oyster - Sharing and Re-using Ontologies in a Peer-to-Peer Community
-    DOAPamine Java 5 DOAP Annotations  - 
-view full list here http://www.w3.org/wiki/SemanticWebDOAPBulletinBoard
+    DOAPamine Java 5 DOAP Annotations
+
+view full list at http://www.w3.org/wiki/SemanticWebDOAPBulletinBoard
